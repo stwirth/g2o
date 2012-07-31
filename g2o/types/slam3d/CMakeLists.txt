@@ -18,6 +18,8 @@ ADD_LIBRARY(types_slam3d ${G2O_LIB_TYPE}
   parameter_camera.h
   parameter_stereo_camera.cpp
   parameter_stereo_camera.h
+  edge_pointxyz_pointxyz.cpp
+  edge_pointxyz_pointxyz.h
   edge_se3_pointxyz.cpp
   edge_se3_pointxyz.h
   edge_se3_pointxyz_disparity.cpp

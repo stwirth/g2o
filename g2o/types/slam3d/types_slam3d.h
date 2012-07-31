@@ -31,6 +31,7 @@
 #include "parameter_se3_offset.h"
 #include "edge_se3_pointxyz.h"
 #include "edge_se3_offset.h"
+#include "edge_pointxyz_pointxyz.h"
 
 #include "parameter_camera.h"
 #include "parameter_stereo_camera.h"
